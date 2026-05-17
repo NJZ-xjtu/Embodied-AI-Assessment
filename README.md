@@ -6,19 +6,19 @@
 
 # 
 
-# > 💡 \*\*详细的开发日志、实验可视化与踩坑记录，请参阅我的 \[飞书开发文档]https://jcnfpy47hqel.feishu.cn/wiki/EClTwJrmxi2G8Dk5qoRcy6Nbn5d
+# > 💡 详细的开发日志、实验可视化与踩坑记录，请参阅我的 \[飞书开发文档]https://jcnfpy47hqel.feishu.cn/wiki/EClTwJrmxi2G8Dk5qoRcy6Nbn5d
 
 # \## 🎯 考核核心任务
 
 # 
 
-# 1\. \*\*NaVILA-Bench 部署与评估\*\*：在 MP3D 场景下复现模型 eval 流程。
+# 1\. NaVILA-Bench 部署与评估\*\*：在 MP3D 场景下复现模型 eval 流程。
 
-# 2\. \*\*仿真环境迁移探索\*\*：尝试将 Habitat 格式的 3D 场景导入 NVIDIA Isaac Sim 5.1.0。
+# 2\. 仿真环境迁移探索\*\*：尝试将 Habitat 格式的 3D 场景导入 NVIDIA Isaac Sim 5.1.0。
 
-# 3\. \*\*UAV-VLN 基准测试设计\*\*：基于 `IndoorUAV` 探索无人机视觉语言导航的 benchmark。
+# 3\. UAV-VLN 基准测试设计\*\*：基于 `IndoorUAV` 探索无人机视觉语言导航的 benchmark。
 
-# 4\. \*\*文献调研与具身安全\*\*：梳理 Loco-manipulation 与 VLA 发展脉络，思考安全护栏机制。
+# 4\. 文献调研与具身安全\*\*：梳理 Loco-manipulation 与 VLA 发展脉络，思考安全护栏机制。
 
 # 
 
@@ -40,11 +40,11 @@
 
 # 
 
-# \* \*\*OS:\*\* Ubuntu 22.04 LTS
+# \* OS:Ubuntu 22.04 LTS
 
-# \* \*\*Python:\*\* >= 3.8
+# \* Python: >= 3.8
 
-# \* \*\*CUDA:\*\* >= 12.1
+# \* CUDA: >= 12.1
 
 # 
 
